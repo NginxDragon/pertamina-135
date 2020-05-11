@@ -1,7 +1,8 @@
 RENCANA PROGRAM PROMO 
 - Create Aplikasi Web Program Promo Nasional
-  *Set Kuota Promo Nasional
-  *Set Periode Promo Nasional
+  * Set Kuota Promo Nasional
+  * Set Periode Promo Nasional
+  * Reporting Program Promo Nasional
 - Create Aplikasi Web Program Promo Tradein
   *Set Kuota Promo Tradein
 - Menambahkan Form Add Agent Baru Di Aplikasi Web Pembinaan
