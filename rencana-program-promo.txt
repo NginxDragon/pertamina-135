@@ -1,5 +1,7 @@
 RENCANA PROGRAM PROMO 
 - Create Aplikasi Web Program Promo Nasional
+  *Set Kuota Promo Nasional
 - Create Aplikasi Web Program Promo Tradein
+  *Set Kuota Promo Tradein
 - Create Project PREPAYMENT versi 1
 - Create Project PREPAYMENT versi 2
