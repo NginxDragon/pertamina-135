@@ -4,5 +4,5 @@ Pertamina 135
 - Membuat Aplikasi WEB Untuk BES
 - Membuat Aplikasi WEB Untuk IT
 - Membuat Aplikasi WEB Untuk SPV
-- Membuat Aplikasi Program Promo 
 - Kolaborasi Dengan Banyak Expert
+- Membuat Gallery
