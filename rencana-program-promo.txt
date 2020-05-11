@@ -6,7 +6,5 @@ RENCANA PROGRAM PROMO
 - Create Aplikasi Web Program Promo Tradein
   *Set Kuota Promo Tradein
 - Menambahkan Form Add Agent Baru Di Aplikasi Web Pembinaan
-- Create Project PREPAYMENT versi 1
 - Create Project PREPAYMENT versi 2
-  * Membuat Aplikasi Web Untuk Suport BackRoom
-- Create Project Promo Regional
+  * Membuat Aplikasi Web BackRoom Support
